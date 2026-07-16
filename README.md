@@ -49,7 +49,7 @@ The project covers the complete analytics workflow, including data cleaning, fea
 
 ## Dataset
 
-**Dataset:** IBM HR Employee Attrition Dataset
+**Dataset:** HR Employee Attrition Dataset
 
 The dataset contains employee information including:
 
