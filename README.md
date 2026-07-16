@@ -147,11 +147,13 @@ Developed two interactive dashboard pages.
 
 ## Dashboard Page 1
 
-![Dashboard Page 1](Dashboard/Dashboard_Page1.png)
+<img width="1302" height="732" alt="Dashboard_page1" src="https://github.com/user-attachments/assets/dfd1b1e4-22fe-467d-b889-9d2fdf6c02ce" />
+
 
 ## Dashboard Page 2
 
-![Dashboard Page 2](Dashboard/Dashboard_Page2.png)
+<img width="1302" height="731" alt="Dashboard_page2" src="https://github.com/user-attachments/assets/98e46b24-713d-4612-85bd-2f1943ba57b9" />
+
 
 ---
 
